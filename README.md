@@ -1,1 +1,4 @@
 # kotlin
+
+
+tam hoc kotlin
